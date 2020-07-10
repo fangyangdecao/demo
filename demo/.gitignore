@@ -3,6 +3,6 @@
 /.settings/
 rebel.xml
 *.iml
-/target/
+target
 /log/
 *.idea
